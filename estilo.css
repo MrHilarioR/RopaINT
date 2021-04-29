@@ -1,0 +1,30 @@
+table td{
+    font: Times New Roman;
+  }  
+p{
+    font-size: 25px;
+}
+ul{
+    font-size: 20;
+}
+.tablaT td{
+    background-color: #303952;
+    height: 100;
+    width: 100;
+    font-size: 55px;
+    size: 55px;
+    color: white;
+    text-align: center;
+}
+.tablaL td{
+    background-color: #9dbeb9;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.tablaL th{
+    background-color: #ff8882;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
